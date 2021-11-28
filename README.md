@@ -1,3 +1,3 @@
 ## Job descriptions for software people
 
- shimanti-jobs.netlify.app
+https://shimanti-jobs.netlify.app
